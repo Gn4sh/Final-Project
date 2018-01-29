@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ nothing\ to\ be\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ It\ cycles\ through\ the\ time\ in\ the\ game\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ nothing\ to\ be\ returned\r\n
+comment3.params=
+comment3.target=void\ countTime()
+comment3.text=\r\n\ countTime\ It\ counts\ the\ time\ in\ the\ game\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ nothing\ to\ be\ returned\r\n
+comment4.params=
+comment4.target=void\ showTime()
+comment4.text=\r\n\ showTime\ it\ displays\ the\ time\ in\ the\ game\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ nothing\ to\ be\ returned\r\n
+comment5.params=
+comment5.target=void\ showEndMessage()
+comment5.text=\r\n\ showEndMessage\ At\ the\ end\ of\ the\ game\ it\ displays\ that\ your'e\ time\ is\ up\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ nothing\ to\ be\ returned\ \r\n
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ nothing\ returned\r\n
+numComments=7
